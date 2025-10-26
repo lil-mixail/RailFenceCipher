@@ -1,0 +1,11 @@
+rodzaj szyfru/crypt: Płotkowy/Railfence
+
+wysokość płotka/depth: 4
+
+tekst jawny: LIFECANBECHALLENGINGBUTEVERYSTEPYOUAKEBRINGSYOUNEARTOTHEGOALKEEPMOVINGFORWARDBELIEVEINYOURSELFANDNEVERGIVEUP (bez spacji, wielkimi literami)
+
+tekst zaszyfrowany: LNLNVEKGEHKVREISDGIABALIGEETPAENSNATELEOIOWBLENRENNRIPFCEHEGBTRSYUBIYUROGAEMNFADIVYULAEEVUECNUYOROTOPGREOFVE(wygenerowany na stronie cryptool.org)
+
+tekst zaszyfrowany przez Shuffle_script: LNLNVEKGEHKVREISDGIABALIGEETPAENSNATELEOIOWBLENRENNRIPFCEHEGBTRSYUBIYUROGAEMNFADIVYULAEEVUECNUYOROTOPGREOFVE
+
+porównanie: szyfrogram wytworzony przez Shuffle_script jest taki sam jak ten wygenerowany na stronie cryptool.org
